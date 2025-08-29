@@ -1,0 +1,42 @@
+{
+    "0": {
+        "element": "TextLine",
+        "parent": "TextRegion",
+        "parent_type": "paragraph"
+    },
+    "1": {
+        "element": "TextRegion",
+        "type": "heading"
+    },
+    "2": {
+        "element": "TextRegion",
+        "type": "paragraph"
+    },
+    "3": {
+        "element": "TextRegion",
+        "type": "caption"
+    },
+    "4": {
+        "element": "TextRegion",
+        "type": "footer"
+    },
+    "5": {
+        "element": "TextRegion",
+        "type": "page-number"
+    },
+    "6": {
+        "element": "TableRegion"
+    },
+    "7": {
+        "element": "ImageRegion"
+    },
+    "8": {
+        "element": "SeparatorRegion"
+    },
+    "9": {
+        "element": "GraphicRegion"
+    },
+    "10": {
+        "element": "NoiseRegion"
+    }
+}
