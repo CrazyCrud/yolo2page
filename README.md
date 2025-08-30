@@ -2,6 +2,9 @@
 
 Convert YOLO segmentation format annotations to PAGE-XML format for document layout analysis.
 
+## Disclaimer:
+Disclaimer: The flat structure of YOLO can never be completely transferred to the hierarchical structure of PageXML, and information will always be lost. For this reason, the converter only works at a very basic level.
+
 ## Features
 
 - Converts YOLO polygon segmentations to PAGE-XML regions
