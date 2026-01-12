@@ -135,3 +135,7 @@ Valid PAGE-XML 2019-07-15 format with:
 - Hierarchy inferred from geometric overlap (YOLO is not hierarchical)
 - TextLines require parent TextRegions per PAGE-XML spec
 - Supports multiple nesting levels for complex layouts
+
+## Remark
+ChatGPT 4.5, 5 as well as Claude Opus 4.5 have been used to generate this converter.
+Generated code has been manually tested and iteratively improved using the listed models.
